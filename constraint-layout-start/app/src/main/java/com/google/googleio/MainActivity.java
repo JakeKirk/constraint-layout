@@ -12,6 +12,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+
+//
+// Note: code taken from lesson found here: https://codelabs.developers.google.com/codelabs/constraint-layout/
+//
 package com.google.googleio;
 
 import android.app.Activity;
